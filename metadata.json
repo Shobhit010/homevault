@@ -1,0 +1,6 @@
+{
+  "name": "HomeVault",
+  "description": "The Digital Brain for Everything You Own - A beautiful, high-fidelity household inventory dashboard to track assets, documents, warranties, locations, and interactive home maps with smart AI insights.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
