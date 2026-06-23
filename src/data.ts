@@ -1,4 +1,4 @@
-import { Asset, Document, Reminder, UserProfile } from './types';
+import { Asset, Document, Reminder, UserProfile, ActivityLog } from './types';
 
 export const INITIAL_USER_PROFILE: UserProfile = {
   name: 'Shobhit Poddar',
